@@ -1,5 +1,5 @@
 /**
- * HolaMundo
+ * Código de prueba inicial
  */
 public class HolaMundo {
 
