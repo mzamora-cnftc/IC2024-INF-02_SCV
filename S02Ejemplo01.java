@@ -25,8 +25,10 @@ public class S02Ejemplo01 {
         //sout - enter
         // El signo de suma es concatenar, sirve para pegar dos
         // valores para que lo imprima en una sola línea
+        Utils.establecerColor(Color.VERDE);
         System.out.println("La suma es " + suma);
         System.out.println("La multiplicación es " + multiplicacion);
+        Utils.reestablecerColores();
 
     }
 }
